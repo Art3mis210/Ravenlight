@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 615e3334b2875834ca07646bd0695603
+timeCreated: 1433183653
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HouseC_FrontPorch 1
+    100004: UBX_HouseC_FrontPorch_01
+    100006: UBX_HouseC_FrontPorch_02
+    100008: UBX_HouseC_FrontPorch_03
+    100010: UBX_HouseC_FrontPorch_04
+    100012: UBX_HouseC_FrontPorch_05
+    100014: UBX_HouseC_FrontPorch_06
+    100016: UBX_HouseC_FrontPorch_07
+    100018: UBX_HouseC_FrontPorch_08
+    100020: UBX_HouseC_FrontPorch_09
+    400000: //RootNode
+    400002: HouseC_FrontPorch 1
+    400004: UBX_HouseC_FrontPorch_01
+    400006: UBX_HouseC_FrontPorch_02
+    400008: UBX_HouseC_FrontPorch_03
+    400010: UBX_HouseC_FrontPorch_04
+    400012: UBX_HouseC_FrontPorch_05
+    400014: UBX_HouseC_FrontPorch_06
+    400016: UBX_HouseC_FrontPorch_07
+    400018: UBX_HouseC_FrontPorch_08
+    400020: UBX_HouseC_FrontPorch_09
+    2300000: HouseC_FrontPorch 1
+    2300002: UBX_HouseC_FrontPorch_01
+    2300004: UBX_HouseC_FrontPorch_02
+    2300006: UBX_HouseC_FrontPorch_03
+    2300008: UBX_HouseC_FrontPorch_04
+    2300010: UBX_HouseC_FrontPorch_05
+    2300012: UBX_HouseC_FrontPorch_06
+    2300014: UBX_HouseC_FrontPorch_07
+    2300016: UBX_HouseC_FrontPorch_08
+    2300018: UBX_HouseC_FrontPorch_09
+    2300020: //RootNode
+    3300000: HouseC_FrontPorch 1
+    3300002: UBX_HouseC_FrontPorch_01
+    3300004: UBX_HouseC_FrontPorch_02
+    3300006: UBX_HouseC_FrontPorch_03
+    3300008: UBX_HouseC_FrontPorch_04
+    3300010: UBX_HouseC_FrontPorch_05
+    3300012: UBX_HouseC_FrontPorch_06
+    3300014: UBX_HouseC_FrontPorch_07
+    3300016: UBX_HouseC_FrontPorch_08
+    3300018: UBX_HouseC_FrontPorch_09
+    3300020: //RootNode
+    4300000: HouseC_FrontPorch
+    4300002: UBX_HouseC_FrontPorch_01
+    4300004: UBX_HouseC_FrontPorch_02
+    4300006: UBX_HouseC_FrontPorch_03
+    4300008: UBX_HouseC_FrontPorch_04
+    4300010: UBX_HouseC_FrontPorch_05
+    4300012: UBX_HouseC_FrontPorch_06
+    4300014: UBX_HouseC_FrontPorch_07
+    4300016: UBX_HouseC_FrontPorch_08
+    4300018: UBX_HouseC_FrontPorch_09
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

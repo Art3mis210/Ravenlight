@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 1bf370308646200429082144b7887183
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Body
+  - first:
+      1: 100002
+    second: Body_Mesh
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: Gun_Barrel
+  - first:
+      1: 100008
+    second: Guns
+  - first:
+      1: 100010
+    second: Head
+  - first:
+      1: 100012
+    second: P_Body
+  - first:
+      1: 100014
+    second: P_Gun_Barrel
+  - first:
+      1: 100016
+    second: P_Guns
+  - first:
+      1: 100018
+    second: P_Head
+  - first:
+      1: 100020
+    second: P_Stand_Guns
+  - first:
+      1: 100022
+    second: P_Stand_Head
+  - first:
+      1: 100024
+    second: Stand_Guns
+  - first:
+      1: 100026
+    second: Stand_Head
+  - first:
+      4: 400000
+    second: Body
+  - first:
+      4: 400002
+    second: Body_Mesh
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: Gun_Barrel
+  - first:
+      4: 400008
+    second: Guns
+  - first:
+      4: 400010
+    second: Head
+  - first:
+      4: 400012
+    second: P_Body
+  - first:
+      4: 400014
+    second: P_Gun_Barrel
+  - first:
+      4: 400016
+    second: P_Guns
+  - first:
+      4: 400018
+    second: P_Head
+  - first:
+      4: 400020
+    second: P_Stand_Guns
+  - first:
+      4: 400022
+    second: P_Stand_Head
+  - first:
+      4: 400024
+    second: Stand_Guns
+  - first:
+      4: 400026
+    second: Stand_Head
+  - first:
+      21: 2100000
+    second: 02 - Default
+  - first:
+      43: 4300000
+    second: Body_Mesh
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Body_Mesh
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'RightUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Drone@Flight_Back(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_Mesh
+      parentName: Drone@Flight_Back(Clone)
+      position: {x: 0.000000081130445, y: 3.2113414, z: 0.17613135}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: P_Body
+      parentName: Drone@Flight_Back(Clone)
+      position: {x: -0.000000001129074, y: 2.7987568, z: -0.019401627}
+      rotation: {x: -0.024677623, y: 0.7066761, z: -0.024677718, w: 0.70667595}
+      scale: {x: 19.422647, y: 19.422647, z: 19.422647}
+    - name: P_Stand_Head
+      parentName: P_Body
+      position: {x: -0.048926286, y: 0.016063318, z: -0.00000030517575}
+      rotation: {x: 0, y: -1.9596563e-14, z: -0, w: 1}
+      scale: {x: 0.25494286, y: 0.25494286, z: 0.25494283}
+    - name: P_Head
+      parentName: P_Stand_Head
+      position: {x: 0.0005837059, y: -0.053209916, z: 0}
+      rotation: {x: 2.0219475e-15, y: -4.6757536e-15, z: 0.0000000084806615, w: 1}
+      scale: {x: 0.8785376, y: 0.8785376, z: 0.8785376}
+    - name: Head
+      parentName: P_Head
+      position: {x: -0.000000019073486, y: -0.000000076293944, z: 0}
+      rotation: {x: 0.00000004371135, y: -0.00000016292068, z: -0.00000016174673,
+        w: 1}
+      scale: {x: 0.1108397, y: 0.1108397, z: 0.11083969}
+    - name: Stand_Head
+      parentName: P_Stand_Head
+      position: {x: 0.000000019073486, y: 0, z: 0}
+      rotation: {x: 0.00000023040458, y: -0.00000023040477, z: -0.70710695, w: 0.70710665}
+      scale: {x: 0.09737683, y: 0.09737683, z: 0.09737684}
+    - name: P_Stand_Guns
+      parentName: P_Body
+      position: {x: 0.0000000017881393, y: -0.009520797, z: 0}
+      rotation: {x: 0, y: -8.74268e-15, z: -0, w: 1}
+      scale: {x: 0.59684765, y: 0.59684765, z: 0.5968476}
+    - name: P_Guns
+      parentName: P_Stand_Guns
+      position: {x: -0.0030924284, y: -0.029315166, z: 1.1368684e-15}
+      rotation: {x: 0.4612966, y: 0.06442404, z: 0.45092362, w: 0.76139534}
+      scale: {x: 0.68029034, y: 0.68029034, z: 0.6802904}
+    - name: P_Gun_Barrel
+      parentName: P_Guns
+      position: {x: -0.053357467, y: -0.005608902, z: 0.05869049}
+      rotation: {x: 0.000000059604666, y: 3.6803758e-14, z: -2.1936757e-21, w: 1}
+      scale: {x: 0.5516268, y: 0.5516268, z: 0.55162686}
+    - name: Gun_Barrel
+      parentName: P_Gun_Barrel
+      position: {x: 0.000000038146972, y: -0.0009633636, z: 0.0005377769}
+      rotation: {x: -0.46326396, y: -0.04828583, z: -0.42407662, w: 0.77666855}
+      scale: {x: 0.2298732, y: 0.6484581, z: 0.6484581}
+    - name: Guns
+      parentName: P_Guns
+      position: {x: 0.0000000017881393, y: 0, z: 0.00000030517577}
+      rotation: {x: 0.00000004371137, y: -0.00000016292067, z: -0.00000016292068,
+        w: 1}
+      scale: {x: 0.12680423, y: 0.12680423, z: 0.12680423}
+    - name: Stand_Guns
+      parentName: P_Stand_Guns
+      position: {x: -0.0000000011920929, y: 0, z: 0}
+      rotation: {x: 0.00000023040455, y: -0.00000023040475, z: -0.70710695, w: 0.70710665}
+      scale: {x: 0.0862637, y: 0.0862637, z: 0.08626371}
+    - name: Body
+      parentName: P_Body
+      position: {x: 0.0000000017881393, y: 0, z: -0.00000030517577}
+      rotation: {x: 0.00000023040455, y: -0.00000023040475, z: -0.70710695, w: 0.70710665}
+      scale: {x: 0.051486287, y: 0.051486287, z: 0.05148629}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
